@@ -1,7 +1,8 @@
 # 🖥️ Real-Time Collaborative Code Editor
 
 A real-time collaborative code editor where multiple users can edit the same file simultaneously — like Google Docs, but for code. Built with React, Node.js, Yjs, Socket.io, Docker, and deployed on AWS ECS.
-🌐 Live Demo: docker-aws-ALB-1116633681.ap-northeast-1.elb.amazonaws.com
+
+- 🌐 Live Demo: docker-aws-ALB-1116633681.ap-northeast-1.elb.amazonaws.com
 ---
 
 ## 📸 What It Does
