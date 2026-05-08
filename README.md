@@ -2,7 +2,7 @@
 
 A real-time collaborative code editor where multiple users can edit the same file simultaneously — like Google Docs, but for code. Built with React, Node.js, Yjs, Socket.io, Docker, and deployed on AWS ECS.
 
-🌐 **Live Demo:** https://docker-aws-editor.onrender.com/
+🌐 **Live Demo:** [https://docker-aws-editor.onrender.com/](https://docker-aws-editor.onrender.com/)
 ---
 
 ## 📸 What It Does
